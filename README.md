@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a" alt="Project Banner" width="100%">
+  <img src="https://w0.peakpx.com/wallpaper/463/467/HD-wallpaper-pets-pet-kittten-caine-cat-pisici-animal-dog-puppy.jpg" alt="Project Banner" width="100%">
 </p>
 
 <h1 align="center">
