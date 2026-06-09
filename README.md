@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-ROBUST PET IMAGE PREDICTION SYSTEM
+ROBUST PET IMAGE Prediction SYSTEM
 </h1>
 
 <p align="center">
@@ -152,13 +152,13 @@ E --> F[Prediction Output]
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YourUsername/Robust-Pet-Image-Prediction-System.git
+git clone https://github.com/YourUsername/Robust-Pet-Animal-Image-Prediction-System.git
 ```
 
 ### Navigate to Project Directory
 
 ```bash
-cd Robust-Pet-Image-Prediction-System
+cd Robust-Pet-Animal-Image-Prediction-System
 ```
 
 ### Install Dependencies
@@ -170,13 +170,7 @@ pip install -r requirements.txt
 ### Run Prediction
 
 ```bash
-python detect_image.py
-```
-
-### Train the Model
-
-```bash
-python train.py
+python IMAGE_PREDICTION.py
 ```
 
 </div>
