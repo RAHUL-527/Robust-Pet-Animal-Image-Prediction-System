@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-ROBUST PET IMAGE Prediction SYSTEM
+ROBUST PET IMAGE PREDICTION SYSTEM
 </h1>
 
 <p align="center">
